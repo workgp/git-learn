@@ -8,5 +8,6 @@
 public class Test03 {
     public static void main(String[] args) {
         System.out.println("push又成功");
+        System.out.println("push再次成功");
     }
 }
